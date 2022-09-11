@@ -1,0 +1,1 @@
+console.log("This mod was created by Nighthawk. Unauthorized use or attempting to crack this script will result in immediate ban and denial of the asset");
